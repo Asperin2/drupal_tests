@@ -1,4 +1,4 @@
-gi_doc
+Drupal test
 ======
 
-Module DRUPAL Word file
+Drupal
